@@ -1,0 +1,3 @@
+type,dataset,slot_time,instance_number,month,reference_profile,energy_production_function,exec_time,status,obj_value,obj_bound
+HEURISTIC_MIGRATION_0,A,10,1,Jul,3,constant,0:15:03,OPTIMAL,1000,1001
+NORMAL,B,20,2,Sep,4,linear,1:32:12.123,OPTIMAL,2000,2002
